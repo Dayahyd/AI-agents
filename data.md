@@ -7,6 +7,8 @@ https://razorpay.com/m/fix-my-itch/
 
 https://startupa.ge/compare/trustmrr
 
+https://www.youtube.com/watch?v=KhKDxhVCrlM
+
 # Indians #
 
 https://verifiedmrr.in/trustmrr-alternative-india
