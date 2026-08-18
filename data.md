@@ -5,6 +5,8 @@ https://trustmrr.com/
 
 https://razorpay.com/m/fix-my-itch/
 
+https://startupa.ge/compare/trustmrr
+
 # Indians #
 
 https://verifiedmrr.in/trustmrr-alternative-india
