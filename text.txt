@@ -12,11 +12,17 @@ These four names are all connected to the world of training Artificial Intellige
 📚 iMerit Scholars
 This is an elite program run by the company iMerit . It's not a gig-style platform but a curated community of highly skilled experts—like people with PhDs, MDs, or lawyers—who are brought in to work on advanced AI projects . These "Scholars" use their deep knowledge to perform complex tasks like fine-tuning models, creating specialized training data, and ensuring AI outputs are accurate and unbiased . Think of it as a high-end service for companies that need expert-level human input to make their AI truly specialized .
 
+
+
 💻 Outlier
 Outlier is an AI training platform owned by the larger company Scale AI . It connects a large, global network of freelance experts (over 100,000) with remote projects to improve AI models . These experts work on a wide variety of tasks, from reviewing AI-generated text for accuracy to solving math problems and writing code to help the models learn and reason better . Unlike the iMerit Scholars program, Outlier is more of an open platform where freelancers with skills in over 40 different domains can sign up and work flexibly .
 
+
+
 🤖 Micro1
 Micro1 is a separate AI startup that acts like a talent and data infrastructure company for AI labs . Its primary role is to use AI to recruit and manage other human experts for AI training projects . They use an AI recruiter named "Zara" to screen and vet candidates from around the world, building a database of experts to supply to companies that need human intelligence to train their models . It's less a training platform you work directly on and more of a high-tech staffing agency for the AI industry .
+
+
 
 🥭 Multimango
 This was an internal project name for a specific type of work on the Outlier platform (and possibly others) . It was a generalist project that involved tasks like text generation and evaluating conversations (RLHF) and did not require specialized degrees. It's important to note that Project Multimango ended in late 2025, so it's no longer available for new work . The project's shutdown was a standard occurrence in this industry, as funding for specific training runs eventually concludes .
@@ -26,6 +32,8 @@ In short, iMerit Scholars, Outlier, and Micro1 are all different players in the 
 give some other platforms like above
 Read 11 web pages
 Based on the previous examples, here are other AI training platforms and companies that fit into similar categories—either for finding work as a human feedback provider, or as broader platforms in the AI data ecosystem.
+
+
 
 💼 Platforms for Human Feedback & Expert Work
 These platforms connect experts with companies to provide the human insight needed to train and refine AI models, similar to Outlier and iMerit Scholars.
