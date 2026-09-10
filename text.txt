@@ -22,7 +22,7 @@ Micro1 is a separate AI startup that acts like a talent and data infrastructure 
 
 
 
-🥭 Multimango
+# Multimango #
 This was an internal project name for a specific type of work on the Outlier platform (and possibly others) . It was a generalist project that involved tasks like text generation and evaluating conversations (RLHF) and did not require specialized degrees. It's important to note that Project Multimango ended in late 2025, so it's no longer available for new work . The project's shutdown was a standard occurrence in this industry, as funding for specific training runs eventually concludes .
 
 In short, iMerit Scholars, Outlier, and Micro1 are all different players in the AI training ecosystem, while Multimango was a now-defunct project on the Outlier platform.
