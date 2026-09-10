@@ -41,7 +41,8 @@ Toloka	A self-serve platform giving researchers and ML teams direct access to a 
 Rapidata	Building a real-time, global network to deliver high-quality human feedback for AI training. Their goal is to compress feedback loops from weeks to hours or days.	Outlier (a platform for human feedback)
 RentAHuman	A service that allows AI agents to hire human evaluators across 50+ countries for diverse, demographically specific feedback on tasks like RLHF.	Outlier (a flexible platform for human tasks)
 Halo by Arise	An AI DataOps capability that connects credentialed professionals (in areas like healthcare, finance, and law) for specialized RLHF, red-teaming, and safety review workflows.	iMerit Scholars (a program for credentialed experts)
-🏢 Other Major Players in the AI Data Ecosystem
+
+# Other Major Players in the AI Data Ecosystem #
 These companies represent the broader landscape that platforms like Micro1 and services like Multimango are part of, covering everything from data annotation to data marketplaces.
 
 Scale AI & Appen: These are major, established companies offering large-scale data annotation and labeling services. If you provide the raw data, they label it. Outlier is actually owned by Scale AI, connecting it directly to one of the biggest names in the industry.
