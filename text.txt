@@ -12,7 +12,7 @@ This is an elite program run by the company iMerit . It's not a gig-style platfo
 
 
 
-💻 Outlier
+## Outlier ##
 Outlier is an AI training platform owned by the larger company Scale AI . It connects a large, global network of freelance experts (over 100,000) with remote projects to improve AI models . These experts work on a wide variety of tasks, from reviewing AI-generated text for accuracy to solving math problems and writing code to help the models learn and reason better . Unlike the iMerit Scholars program, Outlier is more of an open platform where freelancers with skills in over 40 different domains can sign up and work flexibly .
 
 
