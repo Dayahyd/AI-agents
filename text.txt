@@ -33,7 +33,7 @@ Based on the previous examples, here are other AI training platforms and compani
 
 
 
-💼 Platforms for Human Feedback & Expert Work
+# Platforms for Human Feedback & Expert Work #
 These platforms connect experts with companies to provide the human insight needed to train and refine AI models, similar to Outlier and iMerit Scholars.
 
 Platform	What They Do	Similar To
