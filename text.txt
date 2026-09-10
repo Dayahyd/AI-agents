@@ -17,7 +17,7 @@ Outlier is an AI training platform owned by the larger company Scale AI . It con
 
 
 
-🤖 Micro1
+# Micro1 #
 Micro1 is a separate AI startup that acts like a talent and data infrastructure company for AI labs . Its primary role is to use AI to recruit and manage other human experts for AI training projects . They use an AI recruiter named "Zara" to screen and vet candidates from around the world, building a database of experts to supply to companies that need human intelligence to train their models . It's less a training platform you work directly on and more of a high-tech staffing agency for the AI industry .
 
 
