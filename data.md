@@ -2,7 +2,7 @@
 
 # links #
 
-https://trustmrr.com
+https://trustmrr.com/
 
 https://razorpay.com/m/fix-my-itch
 
