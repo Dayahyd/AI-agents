@@ -4,7 +4,7 @@
 
 https://trustmrr.com/
 
-https://razorpay.com/m/fix-my-itch
+https://razorpay.com/m/fix-my-itch/
 
 https://startupa.ge/compare/trustmrr
 
