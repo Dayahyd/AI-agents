@@ -1,7 +1,6 @@
 # this tools are ai based #
 tools
 
-
 IMerit scholors
 
 outlier
