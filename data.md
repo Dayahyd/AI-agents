@@ -8,7 +8,7 @@ https://razorpay.com/m/fix-my-itch/
 
 https://startupa.ge/compare/trustmrr/
 
-https://www.youtube.com/watch?v=KhKDxhVCrlM
+https://www.youtube.com/watch?v=KhKDxhVCrlM/
 
 # Indians #
 
