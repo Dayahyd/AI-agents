@@ -1,5 +1,3 @@
-this
-
 # links #
 
 https://trustmrr.com/
