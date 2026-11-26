@@ -1,5 +1,5 @@
 # links #
-links will help you
+links will help you in gaining knowledge
 
 https://trustmrr.com/
 
